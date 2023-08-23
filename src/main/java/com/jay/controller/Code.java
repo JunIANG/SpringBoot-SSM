@@ -17,5 +17,6 @@ public class Code {
     public static final Integer SYSTEM_UNKNOWN_ERR = 59999;
 
     public static final Integer BUSINESS_ERR = 60001;
+    public static final Integer BUSINESS_OK = 60000;
 
 }
