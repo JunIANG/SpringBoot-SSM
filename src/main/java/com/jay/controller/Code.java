@@ -20,6 +20,7 @@ public class Code {
     public static final Integer BUSINESS_OK = 60000;
 
     public static final Integer hot_fix = 000000;
+    public static final Integer hot_fix2 = 000001;
     public static final Integer master = 000002;
 
 }
