@@ -19,4 +19,6 @@ public class Code {
     public static final Integer BUSINESS_ERR = 60001;
     public static final Integer BUSINESS_OK = 60000;
 
+    public static final Integer hot_fix = 000000;
+
 }
