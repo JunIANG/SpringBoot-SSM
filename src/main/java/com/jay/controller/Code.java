@@ -23,4 +23,6 @@ public class Code {
     public static final Integer hot_fix2 = 000001;
     public static final Integer master = 000002;
 
+    public static final Integer push = 111111;
+
 }
