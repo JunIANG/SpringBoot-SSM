@@ -24,5 +24,6 @@ public class Code {
     public static final Integer master = 000002;
 
     public static final Integer push = 111111;
+    public static final Integer pull = 222222;
 
 }
